@@ -11,4 +11,9 @@ A: staging area is a place to get files ready to go to git, but they
 aren't actually there yet. working directory is where all the files originate.
 It gives us the opportunity to check our commit logic before committing
 
-Q; 
+Q: How can you use the staging area to make sure you have
+one commit per logical change?
+
+A: Use git diff without arguments to see differences b/t working
+directory and staging area
+
