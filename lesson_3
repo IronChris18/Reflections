@@ -12,3 +12,11 @@ up-to-date with your remote repository?
 A: In the case where someone else is working on the
 project, I would want to make sure that their code
 doesn't get mixed up with mine before I am ready to merge
+
+Q: Describe the differences between forks, clones,
+and branches. When would you use one instead of another?
+
+A: fork is GitHub specific and used to copy Github
+repositories. Clone is used to copy a github repository
+onto my personal machine. Branches is used to create
+different versions of a project only on my local machine.
