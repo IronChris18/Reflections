@@ -35,4 +35,10 @@ A: The result is a single branch with all changes from both branches
 It is represented that way to show that the "tip" of the master branch
 has changed
 
+Q: What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+
+A: Pros - Quicker, don't have to "guess" which code is correct
+	Cons - It could pick the wrong code, I don't see what changes were made
+
 Q: 
